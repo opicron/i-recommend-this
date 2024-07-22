@@ -7,7 +7,7 @@
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/i-recommend-this.git
+   git clone https://github.com/webtions/i-recommend-this.git
    ```
 
 2. Navigate to the plugin directory:
